@@ -1,3 +1,5 @@
+intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
+
 Rock;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
 
 test_hahahhaha;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Test;test;icon@gift;URL_LINK@Visit Website@https://sites.google.com/d/1M2TR3BxDCTo1zwtevyPwCtoQCrfSKBek/p/1pVRAFCf5RB5fMUdTxMjbDvu63_z5hR2b/edit
